@@ -1,0 +1,4 @@
+﻿  src.cpp
+D:\MJX\C++\OsProject_1\OsProject_1\src.cpp(32,33): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\MJX\C++\OsProject_1\OsProject_1\src.cpp(59,33): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  OsProject_1.vcxproj -> D:\MJX\C++\OsProject_1\Debug\OsProject_1.exe

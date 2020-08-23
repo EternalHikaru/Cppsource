@@ -1,0 +1,3 @@
+﻿  src.cpp
+D:\MJX\C++\字符串之和\字符串之和\src.cpp(35,33): warning C4018: “>=”: 有符号/无符号不匹配
+  字符串之和.vcxproj -> D:\MJX\C++\字符串之和\Debug\字符串之和.exe

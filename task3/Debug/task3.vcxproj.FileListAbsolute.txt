@@ -1,0 +1,4 @@
+E:\MJX\C++\算法分析与设计\task3\Debug\task3.exe
+E:\MJX\C++\算法分析与设计\task3\Debug\task3.pdb
+D:\MJX\C++\task3\Debug\task3.exe
+D:\MJX\C++\task3\Debug\task3.pdb

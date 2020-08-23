@@ -1,0 +1,4 @@
+﻿  src.cpp
+D:\MJX\C++\模式匹配\模式匹配\src.cpp(8,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\模式匹配\模式匹配\src.cpp(20,32): warning C4018: “<=”: 有符号/无符号不匹配
+  模式匹配.vcxproj -> D:\MJX\C++\模式匹配\Debug\模式匹配.exe

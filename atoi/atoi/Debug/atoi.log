@@ -1,0 +1,4 @@
+﻿  src.cpp
+D:\MJX\C++\atoi\atoi\src.cpp(10,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\atoi\atoi\src.cpp(22,11): warning C4018: “<”: 有符号/无符号不匹配
+  atoi.vcxproj -> D:\MJX\C++\atoi\Debug\atoi.exe

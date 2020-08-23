@@ -1,0 +1,5 @@
+﻿  src.cpp
+D:\MJX\C++\字符串乘法\字符串乘法\src.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\字符串乘法\字符串乘法\src.cpp(17,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\字符串乘法\字符串乘法\src.cpp(24,20): warning C4018: “<”: 有符号/无符号不匹配
+  字符串乘法.vcxproj -> D:\MJX\C++\字符串乘法\Debug\字符串乘法.exe

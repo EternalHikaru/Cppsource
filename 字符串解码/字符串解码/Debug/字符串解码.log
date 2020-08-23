@@ -1,0 +1,5 @@
+﻿  src.cpp
+D:\MJX\C++\字符串解码\字符串解码\src.cpp(9,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\字符串解码\字符串解码\src.cpp(15,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\MJX\C++\字符串解码\字符串解码\src.cpp(28,41): warning C4018: “<”: 有符号/无符号不匹配
+  字符串解码.vcxproj -> D:\MJX\C++\字符串解码\Debug\字符串解码.exe
